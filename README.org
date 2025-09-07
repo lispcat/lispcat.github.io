@@ -1,5 +1,3 @@
-#+title: lispcat.github.io
-
 * lispcat.github.io
 
 A Personal Techblog
