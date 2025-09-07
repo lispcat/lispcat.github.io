@@ -1,6 +1,6 @@
 {-# LANGUAGE OverloadedStrings #-}
 
--- module Main where
+module Main where
 
 import Hakyll
 

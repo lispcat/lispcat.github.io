@@ -1,0 +1,7 @@
+#+title: lispcat.github.io
+
+* lispcat.github.io
+
+A Personal Techblog
+
+Made using [[https://jaspervdj.be/hakyll/][Hakyll]], a static-site generator configured in Haskell.
